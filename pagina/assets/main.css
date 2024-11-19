@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+  }
+    
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 0;
+    border: 0;
+  }
+  
+  header {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #836421;
+  }
+  
+  header h1 {
+    text-align: center;
+  }
+  
+  aside {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #fc2525;
+  }
+  
+  aside h2 {
+    text-align: center;
+  }
+  
+  main {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #04cf15;
+    padding: 0.5rem;
+  }
+  
+  main .anjo {
+    background-color: #00ffdd;
+  }
+  
+  main .dia
+{
+    background-color: #9b1111;
+  }
+  
+  main .tes {
+    background-color: #fffb00;
+  }
+  
+  main .anjo
+   img, .dia img, .tes img {
+    height: 100px;
+    width: 115px;
+  }
+  
+  footer {
+    min-width: 100px;
+    min-height: 100px;
+    background-color: #d60c7b;
+  }
+    
+    main h2 {
+      text-align: left;
+    }
+  
+    main img {
+      height: 100px;
+      width: 135px;
+    }
+  
